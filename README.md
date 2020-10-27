@@ -17,7 +17,5 @@ You can also find answer by looking at the [mazero/angular-course-app](https://g
 
 ## Ressources
 
-- [Google Drive](https://drive.google.com/drive/folders/1RNO9paha8eW4PIB4pGCXzruLEuaS25e1?usp=sharing)
-
 - [TypeScript repository](https://github.com/mazero/angular-course-typescript)
 
