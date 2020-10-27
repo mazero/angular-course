@@ -1,6 +1,6 @@
 ## 08 - Services and dependency injection
 
-*Start from [step-07 branch](https://github.com/blongearet/angular-course-app/tree/step-07)*
+*Start from [step-07 branch](https://github.com/mazero/angular-course-app/tree/step-07)*
 
 1. Create a service and a class
 

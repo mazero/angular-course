@@ -53,7 +53,7 @@ This file is the beginning for the following challenge steps:
 
 Snippet about how we consume an asynchronous data once
 
-Please find examples there https://github.com/blongearet/angular-course/blob/master/Challenges/observable
+Please find examples there https://github.com/mazero/angular-course/blob/master/Challenges/observable
 
 ## Next step
 

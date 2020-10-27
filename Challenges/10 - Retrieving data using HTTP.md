@@ -1,6 +1,6 @@
 # 10 - Retrieving data Using HTTP
 
-*Start from [step-08 branch](https://github.com/blongearet/angular-course-app/tree/step-07)*
+*Start from [step-08 branch](https://github.com/mazero/angular-course-app/tree/step-07)*
 
 1. Set up the local server using the [`json-server`](https://github.com/typicode/json-server) module
 
@@ -201,7 +201,7 @@
     
     4.2.3. To check if it works, you can add a button to refresh the data into any component of the application!
     
-**SOLUTION:** :octocat: [step-10 branch](https://github.com/blongearet/angular-course-app/pull/6)
+**SOLUTION:** :octocat: [step-10 branch](https://github.com/mazero/angular-course-app/pull/6)
 
 ## Next step
 

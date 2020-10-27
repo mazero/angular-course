@@ -1,15 +1,11 @@
 # angular-course
 
-Slack invitation link: https://join.slack.com/t/nomade-advanced/shared_invite/zt-ebwqkgp2-BDkU448y_~jr_4RUrlZezw
-
-Welcome to the tower control of this training session!
-
-Please feel free to open an [Issue](https://github.com/blongearet/angular-course/issues/new) 🚀 
+Welcome to the tower control of this training session! 
 
 ## How to use this project
 
 ```
-git clone git@github.com:blongearet/angular-course.git
+git clone git@github.com:mazero/angular-course.git
 cd angular-course
 ```
 
@@ -17,11 +13,11 @@ cd angular-course
 
 All challenges can be found [there](Challenges/README.md)
 
-You can also find answer by looking at the [blongearet/angular-course-app](https://github.com/blongearet/angular-course-app) github project and navigate through [Pull Requests](https://github.com/blongearet/angular-course-app/pulls).
+You can also find answer by looking at the [mazero/angular-course-app](https://github.com/mazero/angular-course-app) github project and navigate through [Pull Requests](https://github.com/mazero/angular-course-app/pulls).
 
 ## Ressources
 
 - [Google Drive](https://drive.google.com/drive/folders/1RNO9paha8eW4PIB4pGCXzruLEuaS25e1?usp=sharing)
 
-- [TypeScript repository](https://github.com/blongearet/angular-course-typescript)
+- [TypeScript repository](https://github.com/mazero/angular-course-typescript)
 

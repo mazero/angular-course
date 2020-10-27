@@ -1,6 +1,6 @@
 # 04 - Introduction to Components
 
-*Start from [master branch](https://github.com/blongearet/angular-course-app/tree/master)*
+*Start from [master branch](https://github.com/mazero/angular-course-app/tree/master)*
 
 **Main idea: use ng generate and be familiar with basic component**
 
@@ -26,7 +26,7 @@ src/
     welcome/
 ```
 
-**SOLUTION:** [:octocat: step-04 branch](https://github.com/blongearet/angular-course-app/pull/1)
+**SOLUTION:** [:octocat: step-04 branch](https://github.com/mazero/angular-course-app/pull/1)
 
 ## Next step
 

@@ -1,6 +1,6 @@
 # 05 - Templates, Interpolation & Directives
 
-*Start from [step-04 branch](https://github.com/blongearet/angular-course-app/tree/step-04)*
+*Start from [step-04 branch](https://github.com/mazero/angular-course-app/tree/step-04)*
 
 **Main idea: create a product list view by using *ngIf & *ngFor directives**
 
@@ -83,7 +83,7 @@
 
 `<input [(ngModel)]="searchTerm" type="text />`
 
-**SOLUTION:** :octocat: [step-05 branch](https://github.com/blongearet/angular-course-app/pull/2)
+**SOLUTION:** :octocat: [step-05 branch](https://github.com/mazero/angular-course-app/pull/2)
 
 6. Go further
 

@@ -1,6 +1,6 @@
 ## 06 - Data binding & Pipes
 
-*Start from [step-05 branch](https://github.com/blongearet/angular-course-app/tree/step-05)*
+*Start from [step-05 branch](https://github.com/mazero/angular-course-app/tree/step-05)*
 
 1. Pipes
     1. Create a pipe called `productSearch` into the folder `src/app/product`
@@ -8,7 +8,7 @@
     3. Use the Pipe into the `product-list.component.html` ([Pipe documentation](https://angular.io/guide/pipes#pipes))
     4. Enhance the `searchProduct` pipe to find in all `String` values of the given array (instead of only into the `productName`). It means that you not receive only `Product[]` but `any[]`!
 
-**SOLUTION:** :octocat: [step-06 branch](https://github.com/blongearet/angular-course-app/pull/4)
+**SOLUTION:** :octocat: [step-06 branch](https://github.com/mazero/angular-course-app/pull/4)
 
 ## Next step
 

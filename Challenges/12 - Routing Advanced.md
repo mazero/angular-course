@@ -1,6 +1,6 @@
 # 12 - Routing Advanced
   
-*Start from [step-11 branch](https://github.com/blongearet/angular-course-app/tree/step-11)*
+*Start from [step-11 branch](https://github.com/mazero/angular-course-app/tree/step-11)*
   
 1. Retrieve the `id` parameter from url in `ProductDetailComponent` using the Angular Service `ActivatedRoute`
 
@@ -124,4 +124,4 @@
     4. Create two `CanActivate`  guards to check if the current user is logged or not
     5. Set guard on the route to protect them
 
-**SOLUTION:** :octocat: [step-11 branch](https://github.com/blongearet/angular-course-app/pull/8)
+**SOLUTION:** :octocat: [step-11 branch](https://github.com/mazero/angular-course-app/pull/8)

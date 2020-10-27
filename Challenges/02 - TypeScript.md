@@ -1,6 +1,6 @@
 # 02 - TypeScript
 
-:octocat: Challenge can be found in a separated github repository [blongearet/angular-course-typescript](https://github.com/blongearet/angular-course-typescript)
+:octocat: Challenge can be found in a separated github repository [mazero/angular-course-typescript](https://github.com/mazero/angular-course-typescript)
 
 Take a look at the slides and use Internet wonderful search engine to do all the exercices.
 

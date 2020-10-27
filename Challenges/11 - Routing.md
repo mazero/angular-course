@@ -1,6 +1,6 @@
 # 10 - Navigation and Routing Basics
 
-*Start from [step-10 branch](https://github.com/blongearet/angular-course-app/tree/step-10)*
+*Start from [step-10 branch](https://github.com/mazero/angular-course-app/tree/step-10)*
 
 **ℹ We'll work on the created components `ProductDetailComponent` and `WelcomeComponent`. Generate them if not already exists**
 
@@ -99,4 +99,4 @@
     - One to go back to `/products` route
     - an other to go to the next product detail page
   
-**SOLUTION:** :octocat: [step-11 branch](https://github.com/blongearet/angular-course-app/pull/7)
+**SOLUTION:** :octocat: [step-11 branch](https://github.com/mazero/angular-course-app/pull/7)

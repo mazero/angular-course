@@ -1,6 +1,6 @@
 # 01 - Introduction
 
-[:octocat: step-00 (ou master)](https://github.com/blongearet/angular-course-app)
+[:octocat: step-00 (ou master)](https://github.com/mazero/angular-course-app)
 
 No Challenge here but some commands to type in a terminal.
 

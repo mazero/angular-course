@@ -1,6 +1,6 @@
 # 13 - Forms
 
-*Start from [step-12 branch](https://github.com/blongearet/angular-course-app/tree/step-12)*
+*Start from [step-12 branch](https://github.com/mazero/angular-course-app/tree/step-12)*
 
 **ℹ We'll work on the created components `ProductEditComponent`. Generate them if not already exists.**
 
@@ -214,7 +214,7 @@ Easiest and future-proof way is to use Reactive forms.
     
     First we should get the id from the url (like in the step-12) and the related product.
     
-    https://github.com/blongearet/angular-course-app/blob/step-12/src/app/product/product-detail/product-detail.component.ts#L22-L30
+    https://github.com/mazero/angular-course-app/blob/step-12/src/app/product/product-detail/product-detail.component.ts#L22-L30
     
     11.1. Inject the `ActivatedRoute` service
     
@@ -250,4 +250,4 @@ Easiest and future-proof way is to use Reactive forms.
     
     As we check that the observable will only gives to us `Product` instance, we are able to safely setValue to the FormGroup.
 
-**SOLUTION:** :octocat: [step-12 branch](https://github.com/blongearet/angular-course-app/pull/9)
+**SOLUTION:** :octocat: [step-12 branch](https://github.com/mazero/angular-course-app/pull/9)
