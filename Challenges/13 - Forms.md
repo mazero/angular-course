@@ -250,4 +250,4 @@ Easiest and future-proof way is to use Reactive forms.
     
     As we check that the observable will only gives to us `Product` instance, we are able to safely setValue to the FormGroup.
 
-**SOLUTION:** :octocat: [step-12 branch](https://github.com/mazero/angular-course-app/pull/9)
+**SOLUTION:** :octocat: [step-12 branch](https://github.com/mazero/angular-course-app/pull/1)

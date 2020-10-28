@@ -99,4 +99,4 @@
     - One to go back to `/products` route
     - an other to go to the next product detail page
   
-**SOLUTION:** :octocat: [step-11 branch](https://github.com/mazero/angular-course-app/pull/7)
+**SOLUTION:** :octocat: [step-11 branch](https://github.com/mazero/angular-course-app/pull/3)

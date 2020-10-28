@@ -13,7 +13,7 @@
     - refactor `ratingClicked` into `ratingChange` into the `StarComponent` (and update all place where this is in use)
     - update the `ProductListComponent` template to use banana in the box `[(rating)]` in the star component custom HTML element
 
-**SOLUTION:** :octocat: [step-07 branch](https://github.com/mazero/angular-course-app/pull/3)
+**SOLUTION:** :octocat: [step-07 branch](https://github.com/mazero/angular-course-app/pull/6)
 
 ## Next step
 

@@ -26,7 +26,7 @@ src/
     welcome/
 ```
 
-**SOLUTION:** [:octocat: step-04 branch](https://github.com/mazero/angular-course-app/pull/1)
+**SOLUTION:** [:octocat: step-04 branch](https://github.com/mazero/angular-course-app/pull/9)
 
 ## Next step
 

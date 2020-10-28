@@ -83,7 +83,7 @@
 
 `<input [(ngModel)]="searchTerm" type="text />`
 
-**SOLUTION:** :octocat: [step-05 branch](https://github.com/mazero/angular-course-app/pull/2)
+**SOLUTION:** :octocat: [step-05 branch](https://github.com/mazero/angular-course-app/pull/8)
 
 6. Go further
 

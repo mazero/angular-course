@@ -201,7 +201,7 @@
     
     4.2.3. To check if it works, you can add a button to refresh the data into any component of the application!
     
-**SOLUTION:** :octocat: [step-10 branch](https://github.com/mazero/angular-course-app/pull/6)
+**SOLUTION:** :octocat: [step-10 branch](https://github.com/mazero/angular-course-app/pull/4)
 
 ## Next step
 
